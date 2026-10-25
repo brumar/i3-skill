@@ -1,5 +1,7 @@
 # i3 skill for Claude Code
 
+> **Entirely AI-generated.** Every file here (SKILL.md, references, scripts, this README) was written by Claude (Anthropic) running in Claude Code. The behaviours it describes were tested the same way: AI agents running each command against a sandboxed i3 4.23 and fixing what failed. A human asked for it and chose what to keep.
+
 A skill that teaches Claude Code (and other agents that read `SKILL.md` skills) to drive and configure the [i3 window manager](https://i3wm.org) through `i3-msg` and the i3 IPC.
 
 What it covers:
